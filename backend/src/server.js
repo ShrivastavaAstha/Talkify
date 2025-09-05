@@ -20,7 +20,8 @@ app.use(
     origin: [
       "http://localhost:5173",
       "http://localhost:5175",
-      "https://talkify-chi.vercel.app",
+      "https://talkify-inky.vercel.app",
+      "talkify-inky.vercel.app",
     ],
     credentials: true,
   })
