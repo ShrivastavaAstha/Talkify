@@ -8,7 +8,10 @@
 
 **Talkify** is a **real-time language exchange and communication platform** that seamlessly combines **messaging, video calls, and social interactions** in one interactive experience. Connect with users worldwide and enhance your language skills effortlessly.  
 
-![Demo_img](public/demo_img.png)
+<p align="center">
+  <img src="frontend/assets/demo_img.png" width="600" alt="Demo_img" />
+</p>
+
 
 
 ---
